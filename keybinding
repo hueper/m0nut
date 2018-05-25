@@ -1,18 +1,31 @@
 #!/bin/bash
 
-# when pressing 'H' download video from youtube
+#
+# playing a remote video with mpv
+#
 while true; do
 read -rsn1 input
 if [ "$input" = "R" ]; then
   mpv -vo caca https://www.youtube.com/watch?v=EV3TdFuQy1w
 fi
+
+#
+# playing a local video with mpv
+#
 if [ "$input" = "L" ]; then
   mpv -vo caca bash-mov-test.mp4
 fi
+
+#
+# playing sound with sox
+#
 if [ "$input" = "f" ]; then
   play shelltest.mp3
 fi
 
+#
+# exit
+#
 if [ "$input" = "s" ]; then
   exit 1
 fi
