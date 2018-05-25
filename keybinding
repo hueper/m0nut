@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# when pressing 'H' download video from youtube
+while true; do
+read -rsn1 input
+if [ "$input" = "R" ]; then
+  mpv -vo caca https://www.youtube.com/watch?v=EV3TdFuQy1w
+fi
+if [ "$input" = "L" ]; then
+  mpv -vo caca bash-mov-test.mp4
+fi
+if [ "$input" = "f" ]; then
+  play shelltest.mp3
+fi
+
+if [ "$input" = "s" ]; then
+  exit 1
+fi
+
+done
