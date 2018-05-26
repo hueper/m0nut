@@ -6,7 +6,7 @@
 
 ### Tutorials
 * [Connect and Control WS2812 RGB LED Strips via Raspberry Pi](https://tutorials-raspberrypi.com/connect-control-raspberry-pi-ws2812-rgb-led-strips/)
-* [Raspberry Pi & RGB LED-Strips](https://dordnung.de/raspberrypi-ledstrip/) (de)
+* [Raspberry Pi & RGB LED-Strips](https://dordnung.de/raspberrypi-ledstrip/)
 
 ### Raspberry Pi with LED
 * [A RGB LED-Strip (with 3 pins for RGB and 1 pin for 12V DC)](https://www.amazon.de/CroLED-Streifen-5050SMD-Schwarz-PCB-Lichtleiste/dp/B00LL1U6MO/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=dordnungde-21&linkId=da4cc5279d8d3df46606a9c00187ca39): EUR 12,99
