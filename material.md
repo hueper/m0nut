@@ -22,3 +22,7 @@
 * [Raspberry Pi power jack](https://www.amazon.de/Stecker-Netzteil-Raspberry-ausreichende-Leistungsreserve/dp/B01E75SB2C/ref=sr_1_1?ie=UTF8&qid=1527354123&sr=8-1&keywords=Rydges+EU+5V+3A+Micro+USB+Stecker+Netzteil): EUR 9,29
 * = EUR 60,72
 * Total: **EUR 109,74**
+
+### Audio reactive led strip
+* [Repository](https://github.com/scottlawsonbc/audio-reactive-led-strip)
+* [Video](https://www.youtube.com/watch?v=HNtM7jH5GXg)
